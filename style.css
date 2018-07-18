@@ -178,7 +178,7 @@ nav li:not(.join-cont):hover::after {
 .top {
     height: 100vh;
     width: 100%;
-    background: no-repeat center url("../coverbotas.png");
+    background: no-repeat center url("pictures/coverbotas.png");
     background-size: cover;
     position: relative;
     box-sizing: border-box;
