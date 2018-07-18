@@ -877,7 +877,7 @@ footer * {
     }
 
     .latest-design-wrap {
-        background-position: center top -50%;
+        background-position: center top -60%;
         width: 90%;
         height: 85%;
         background-size: 90%;
@@ -913,7 +913,7 @@ footer * {
     }
 
     .ld-desc {
-        font-size: 16px;
+        font-size: 12px;
     }
 
     .our-design {
@@ -957,6 +957,14 @@ footer * {
 
     header {
         padding: 35px 0;
+    }
+
+    .top-wrap{
+        top: 54%;
+    }
+
+    .categorie-item button{
+        padding: 15px 5px;
     }
 }
 
