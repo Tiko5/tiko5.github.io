@@ -782,7 +782,7 @@ footer * {
         }
 
         100% {
-            width: 600px;
+            width: 490px;
         }
     }
 
@@ -936,8 +936,9 @@ footer * {
 
     .footer-wrap {
         margin-top: 100px;
-        width: 60%;
+        width: 80%;
         flex-wrap: wrap;
+        font-size: 16px;
     }
 
     .footer-nav {
@@ -959,12 +960,16 @@ footer * {
         padding: 35px 0;
     }
 
-    .top-wrap{
+    .top-wrap {
         top: 54%;
     }
 
-    .categorie-item button{
+    .categorie-item button {
         padding: 15px 5px;
+    }
+
+    .top-description {
+        font-size: 12px;
     }
 }
 
